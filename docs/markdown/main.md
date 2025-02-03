@@ -1,6 +1,6 @@
-## Spring Authorization Server 1.4 Workshop
+### Spring Authorization Server 1.4 Workshop
 
-### Agenda 3-hours
+#### Agenda 3-hours
 
 - Local install
   - Make available ASAP
