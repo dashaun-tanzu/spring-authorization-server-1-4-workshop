@@ -4,6 +4,7 @@
 
 #### Agenda 3-hours
 
+```text
 - Local install
   - Make available ASAP
   - Local Authorization Server (Commercial version)
@@ -18,3 +19,4 @@
   - OAuth Admin, simple UI, CRUD clients
 - Database Schema comparison / Migration
 - Performance & Tuning
+```
