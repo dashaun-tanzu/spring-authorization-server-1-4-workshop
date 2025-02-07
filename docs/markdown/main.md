@@ -5,6 +5,19 @@
 #### Agenda 3-hours
 
 ```text
+Introductions / Kickoff
+What's new in Spring Security 6.4
+Oauth2.0 Overview
+LDAP User/Pass
+Passkeys
+Client Credentials
+Token Exchange Grant
+Database Schema & Migration
+Local Authorization Server
+Q&A
+```
+
+```text
 - Local install
   - Make available ASAP
   - Local Authorization Server (Commercial version)
